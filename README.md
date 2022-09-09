@@ -2,7 +2,7 @@
 
 ✅ Sou formado em Biomedicina e em transição de carreira para a área Tech e cursando Análise e Desenvolvimento de Sistemas.<br>
 👜 Entusiasta da tecnologia na área da saúde e gamer.<br>
-✍🏻 No momento aprendendo sobre <b>HTML, CSS/SASS, JavaScript, Angular e Lógica de Programação.</b><br>
+✍🏻 Iniciante e no momento aprendendo sobre <b>HTML, CSS/SASS, JavaScript, Angular e Lógica de Programação.</b><br>
 💡 Interesse em Back-End, Data Science, Salesforce, sempre buscando novas linguagens e curiosidades sobre o mundo Tech.
 
  <div align="center">
@@ -27,6 +27,5 @@
   <a href="mailto:cacefo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-gomes-cacefo-4164165b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/caceffo/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
